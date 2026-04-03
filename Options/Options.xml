@@ -1,0 +1,11 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+  <Script file="Helpers.lua"/>
+  <Script file="Defaults.lua"/>
+  <Script file="Dungeons.lua"/>
+  <Script file="Positioning.lua"/>
+  <Script file="Appearance.lua"/>
+  <Script file="Display.lua"/>
+  <Script file="InformGroup.lua"/>
+  <Script file="Interface.lua"/>
+  <Script file="Advanced.lua"/>
+</Ui>
